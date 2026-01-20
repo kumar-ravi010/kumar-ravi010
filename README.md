@@ -5,7 +5,7 @@
 - 📝 I write articles on **Medium**
 - 💬 Ask me about anything regarding **Enterprise Data Storage Servers/Backup/Replications**
 - 📫 How to reach me **kumar.ravi010@gmail.com**
-- 📄 Know about my experiences **[![Linkedin](https://www.linkedin.com/in/inkumarravi/)]**
+- 📄 Know about my experiences **[Linkedin](https://www.linkedin.com/in/inkumarravi/)**
 - ⚡ Fun fact I like to solve **sudoku**
 
 
